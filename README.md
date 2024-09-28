@@ -1,6 +1,6 @@
  # Simulated Stock Prices With Live Update
 
-This script simulates stock prices over time using a GM model with dynamically updating drift (mu) and volatility (sigma). The simulation inmates live stock price movements with Matplotlib, updating the x-axis and y-axis as the simulation progresses.
+This script simulates stock prices over time using a GBM model with dynamically updating drift (mu) and volatility (sigma). The simulation inmates live stock price movements with Matplotlib, updating the x-axis and y-axis as the simulation progresses.
 
 ## Features
 
